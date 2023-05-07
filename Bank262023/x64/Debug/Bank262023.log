@@ -1,0 +1,32 @@
+﻿  Bank262023.cpp
+C:\Users\49157\source\repos\Bank262023\Bank262023\clsString.h(43,1): warning C4267: "return": Konvertierung von "size_t" nach "short", Datenverlust möglich
+C:\Users\49157\source\repos\Bank262023\Bank262023\clsString.h(48,1): warning C4267: "return": Konvertierung von "size_t" nach "short", Datenverlust möglich
+C:\Users\49157\source\repos\Bank262023\Bank262023\clsString.h(60,1): warning C4267: "=": Konvertierung von "size_t" nach "short", Datenverlust möglich
+C:\Users\49157\source\repos\Bank262023\Bank262023\clsString.h(197,1): warning C4267: "return": Konvertierung von "size_t" nach "short", Datenverlust möglich
+C:\Users\49157\source\repos\Bank262023\Bank262023\clsString.h(328,1): warning C4267: "=": Konvertierung von "size_t" nach "short", Datenverlust möglich
+C:\Users\49157\source\repos\Bank262023\Bank262023\clsString.h(376,1): warning C4267: "Initialisierung": Konvertierung von "size_t" nach "short", Datenverlust möglich
+C:\Users\49157\source\repos\Bank262023\Bank262023\clsUtil.h(64,1): warning C4102: "defualt": Unreferenzierte Bezeichnung
+C:\Users\49157\source\repos\Bank262023\Bank262023\clsUser.h(199,5): warning C4240: Nicht dem Standard entsprechende Erweiterung: Zugriff auf "clsUser::stLoginRegisterRecord" nun als "public" definiert, wurde zuvor als "private" definiert
+C:\Users\49157\source\repos\Bank262023\Bank262023\clsUser.h(26): message : Siehe Deklaration von "clsUser::stLoginRegisterRecord"
+C:\Users\49157\source\repos\Bank262023\Bank262023\clsInputValidate.h(143,16): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\49157\source\repos\Bank262023\Bank262023\clsInputValidate.h(146,26): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\49157\source\repos\Bank262023\Bank262023\clsBankClient.h(200,32): warning C4240: Nicht dem Standard entsprechende Erweiterung: Zugriff auf "clsBankClient::stTransferLogRecord" nun als "public" definiert, wurde zuvor als "private" definiert
+C:\Users\49157\source\repos\Bank262023\Bank262023\clsBankClient.h(153): message : Siehe Deklaration von "clsBankClient::stTransferLogRecord"
+C:\Users\49157\source\repos\Bank262023\Bank262023\clsBankClient.h(29,65): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\49157\source\repos\Bank262023\Bank262023\clsBankClient.h(160,40): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\49157\source\repos\Bank262023\Bank262023\clsBankClient.h(161,49): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\49157\source\repos\Bank262023\Bank262023\clsBankClient.h(162,50): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\49157\source\repos\Bank262023\Bank262023\clsBankClient.h(418,16): warning C4244: "return": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\49157\source\repos\Bank262023\Bank262023\clsBankClient.h(422,28): warning C4244: "+=": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\49157\source\repos\Bank262023\Bank262023\clsBankClient.h(434,32): warning C4244: "-=": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\49157\source\repos\Bank262023\Bank262023\clsAddNewClientScreen.h(27,60): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\49157\source\repos\Bank262023\Bank262023\clsUpdateClientScreen.h(38,60): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\49157\source\repos\Bank262023\Bank262023\clsTotalBalancesScreen.h(45,75): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+C:\Users\49157\source\repos\Bank262023\Bank262023\clsTransferScreen.h(3,10): warning C4067: Unerwartete Token nach Präprozessordirektive - Zeilenvorschub erwartet.
+C:\Users\49157\source\repos\Bank262023\Bank262023\clsTransferScreen.h(44,45): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\49157\source\repos\Bank262023\Bank262023\clsTransferScreen.h(47,44): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\49157\source\repos\Bank262023\Bank262023\Bank262023.cpp(234,45): warning C4390: ";": Leere kontrollierte Anweisung aufgetreten; ist dies beabsichtigt?
+C:\Users\49157\source\repos\Bank262023\Bank262023\clsBankClient.h(375): warning C4715: "clsBankClient::Save": Nicht alle Codepfade geben einen Wert zurück.
+C:\Users\49157\source\repos\Bank262023\Bank262023\clsBankClient.h(439): warning C4715: "clsBankClient::Withdraw": Nicht alle Codepfade geben einen Wert zurück.
+C:\Users\49157\source\repos\Bank262023\Bank262023\clsUser.h(360): warning C4715: "clsUser::Save": Nicht alle Codepfade geben einen Wert zurück.
+  Bank262023.vcxproj -> C:\Users\49157\source\repos\Bank262023\x64\Debug\Bank262023.exe
